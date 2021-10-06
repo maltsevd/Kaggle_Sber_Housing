@@ -1,0 +1,10 @@
+scikit-learn
+click
+ItsDangerous
+Jinja2
+MarkupSafe
+numpy
+pandas
+Werkzeug
+Flask
+dill
